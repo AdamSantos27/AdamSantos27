@@ -1,7 +1,7 @@
 Olá!👋 me Chamo Adam Santos,Software Quality Analyst
 
-- 🔭  I'm work Quality Assurance
-- 🌱 Java and javascript
+- 🔭  Trabalho com Quality Assurance
+- 🌱 Java e javascript
 - 😄 Pronouns:Ele/Dele
 
 <div align="center">

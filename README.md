@@ -1,4 +1,4 @@
-Olá!👋 me Chamo Adam Santos,Software Quality Analyst
+Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
 
 - 🔭  Trabalho com Quality Assurance
 - 📚 Estou estudando testes automatizados, api utilizando postman e restAssure utilizando a IDE IntelJ, cucumber, selenium Webdiriver, Cypress, JUnit

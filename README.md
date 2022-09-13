@@ -1,8 +1,11 @@
 Olá!👋 me Chamo Adam Santos,Software Quality Analyst
 
 - 🔭  Trabalho com Quality Assurance
+- 📚 Estou estudando testes automatizados, api utilizando postman e restAssure utilizando a IDE IntelJ, cucumber, selenium Webdiriver, Cypress, JUnit
 - 🌱 Java e javascript
 - 😄 Pronouns:Ele/Dele
+- 📮 adamlsantos.qa@gmail.com
+- 📱 (85)99115-6945
 
 <div align="center">
   <a href="https://github.com/AdamSantos27">

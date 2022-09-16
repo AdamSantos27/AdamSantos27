@@ -3,7 +3,6 @@ Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
 - 🔭  Trabalho com Quality Assurance
 - 📚 Estou estudando testes automatizados, api utilizando postman e restAssure utilizando a IDE IntelJ, cucumber, selenium Webdiriver, Cypress, JUnit
 - 🌱 Java e javascript
-- 😄 Pronouns:Ele/Dele
 - 📮 adamlsantos.qa@gmail.com
 - 📱 +55(85)99115-6945
 

@@ -1,8 +1,8 @@
 Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
 
 - 🔭  Trabalho com Quality Assurance
-- 📚 Estou estudando testes automatizados, api utilizando postman e restAssure utilizando a IDE IntelJ, cucumber, selenium Webdiriver, Cypress, JUnit
-- 🌱 Java e javascript
+- 📚 Testes automatizados, api utilizando postman e restAssure, IDE IntelJ e VScode, frameworks cucumber, selenium Webdriver, Cypress, JUnit
+- 🌱 Java, javascript, Php
 - 📮 adamlsantos.qa@gmail.com
 - 📱 +55(85)99115-6945
 

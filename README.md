@@ -27,7 +27,6 @@ Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
   <img align="center" alt="Adam-CSS" height="31" width="75" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">   <img align="center" alt="Adam-CSS" height="31" width="75" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
-##
 <div>
   
   <a href="https://www.instagram.com/adamsantos20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

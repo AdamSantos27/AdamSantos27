@@ -7,7 +7,7 @@ Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
 - 📱 +55(85)99115-6945
 
 <div align="center">
-  <a href="https://github.com/AdamSantos">
+  <a href="https://github.com/AdamSantos27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamSantos27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
 </div>

@@ -26,6 +26,10 @@ Olá!👋 me Chamo Adam Santos, Analista de Testes Q.A
   <img align="center" alt="Adam-CSS" height="30" width="70" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"> 
   <img align="center" alt="Adam-CSS" height="31" width="75" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">   <img align="center" alt="Adam-CSS" height="31" width="75" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+
+
+
   
 <div>
   
